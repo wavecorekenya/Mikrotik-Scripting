@@ -1,4 +1,4 @@
-MikroTik Networking Automation Script
+MikroTik Networking Automation Script for Centipid
 
 Overview
 This script is designed to simplify and automate the configuration of a MikroTik router. It creates an efficient setup for managing both Hotspot and PPPoE services while ensuring flexibility and scalability for network administrators.
